@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there! I’m Dhruv
+I build **small but mighty CNNs**, **lightweight LLMs**, and **AI-powered automation tools**. Lately, I’ve been diving into **GRPO models** and **multimodal LLMs** 🧠💻.
 
-<!--
-**dhruvgarg78/dhruvgarg78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔹 Projects I’m Proud Of
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [mcp-drawing-agent](https://github.com/dhruvgarg78/mcp-drawing-agent) 🎨🤖
+Control Paint with plain English commands—powered by **Google Gemini** and the **MCP agent framework**. Automates drawing tasks with natural language instructions.
+
+### [CIFAR10](https://github.com/dhruvgarg78/CIFAR10) 🖼️⚡
+Tiny CNN, **huge impact**: **90.5% accuracy** with under 190k parameters. Demonstrates high efficiency in compact models.
+
+### [MNIST-CI-CD](https://github.com/dhruvgarg78/MNIST-CI-CD) 🧪🚀
+Full **CI/CD pipeline** for MNIST CNNs: automated **training, testing, deployment**, and **parameter validation** (<100k).
+
+### [reddit-rag-fact-bot](https://github.com/dhruvgarg78/reddit-rag-fact-bot) 📚🤓
+RAG-based bot that **fact-checks historical claims** on Reddit, integrating embeddings, FAISS retrieval, and Gemini language generation.
+
+### [SmolMoE-864×30](https://github.com/dhruvgarg78/SmolMoE-362M-Docker) 🤖🛠️
+Compact **Mixture-of-Experts LLM**, Dockerized, checkpointed to showcase **architecture design, parameter accounting, and serving pipelines**.
+
+### [bpe-tokenizer-hindi](https://github.com/dhruvgarg78/bpe-tokenizer-hindi) 📝🇮🇳
+Efficient **Hindi BPE tokenizer**: 4500 tokens, **9.24× compression**, optimized for performance and Hugging Face integration.
+
+---
+
+## 🛠️ Tech & Tools
+Python | PyTorch | Hugging Face | Docker | CI/CD | MCP | RAG | MoE | RoPE | MLHA | GRPO | Multimodal LLMs
